@@ -130,6 +130,8 @@ Exemplo de saída:
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── notebooks
+│   └── README.md
 └── src
     ├── inference.py
     └── train.py
