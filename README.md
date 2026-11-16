@@ -131,11 +131,16 @@ Exemplo de saída:
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks
-│   └── README.md
+│   ├── README.md
+│   └── bertimbau_sentiment_analysis.ipynb
 └── src
     ├── inference.py
     └── train.py
 ```
+
+## Notebook
+
+O notebook documentado está disponível em [`notebooks/bertimbau_sentiment_analysis.ipynb`](./notebooks/bertimbau_sentiment_analysis.ipynb).
 
 ## Reproduzir o treinamento
 
