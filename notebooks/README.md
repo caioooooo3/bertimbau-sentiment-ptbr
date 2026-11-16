@@ -1,7 +1,10 @@
 # Notebook
 
-O experimento original foi desenvolvido e executado em Kaggle com GPU.
+O notebook principal do projeto está disponível em:
 
-O notebook completo pode ser adicionado aqui como `bertimbau_sentiment_analysis.ipynb`.
+- [bertimbau_sentiment_analysis.ipynb](./bertimbau_sentiment_analysis.ipynb)
 
-Enquanto isso, o pipeline reproduzível está disponível em [`src/train.py`](../src/train.py).
+Ele documenta o pipeline completo de preparação dos dados, tokenização, fine-tuning, validação, teste e inferência.
+
+O modelo final também está disponível no Hugging Face:
+https://huggingface.co/caio16dev/bertimbau-sentiment-ptbr
